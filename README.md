@@ -40,7 +40,7 @@ Ensure that the folder you put your data in is consistent with the settings in t
 # Author
 
 * Yuichi Sakumura, Nara Institute of Science and Technology, Japan (saku@bs.naist.jp)
-* Kazuyuki Kunida, Fujita Health University, Japan (katsuyuki.kunida@fujita-hu.ac.jp)
+* Katsuyuki Kunida, Fujita Health University, Japan (katsuyuki.kunida@fujita-hu.ac.jp)
 
 
 # License
